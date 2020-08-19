@@ -4,12 +4,20 @@
 
 *Menu responsivo*  
 
+*Bootstrap*
+
 *Carousel de imagens*  
 
 *Formulário para envio de mensagem para o e-mail*
 
 *Localização google maps*
 
+**É um site bem simples que contém apenas informações da pousada rural, com bastante imagens.**  
+**Possui um botão de reserva que redireciona para o whatsapp da pousada.**  
+**Pode entrar em contato com a pousada por meio de e-mail através do formulário.**  
+**Para o envio do e-mail via formulário é utilizado o phpmailer.**  
+Não foi colocado o arquivo .php do código do phpmailer. Esse arquivo deve ficar em uma pasta segura pois apresenta a senha do e-mail.
 
 
-![Logo](https://lh3.googleusercontent.com/proxy/TThkxag-HgRoqK1bqVGcQF9TIXiGGOQiEsYWFaBVlo6jHOncefdCiWT7h2eGP2RsNH_xEgAAPorpiFk8LZ7KwEcQF2sSiNMlgAjIRfuOyNJn7rnF_3cH-4y2TgHHLIh8j2T4-3mXlIHPkyL1E3BMUSg)
+
+![Screenshot](logo.png)
